@@ -40,6 +40,13 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+/chaincode/node_modules
+chaincode-advanced
+.idea/
+network/crypto-config
+/application/node_modules
+/application/identity
+network/bin
 
 # TypeScript v1 declaration files
 typings/
